@@ -1,7 +1,5 @@
 # Insurance-Premium-Prediction
 
-# Insurance Premium Prediction Project
-
 ## Overview
     An insurance premium prediction project involves using machine learning techniques to predict the amount that an individual or entity should pay for insurance coverage. The goal is to build a model that can accurately estimate the insurance premium based on various features and characteristics of the insured entity.
 
